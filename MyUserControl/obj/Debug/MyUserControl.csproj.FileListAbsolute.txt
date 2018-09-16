@@ -1,0 +1,17 @@
+D:\OTOMASYON\Otomasyon\MyUserControl\bin\Debug\MyUserControl.exe
+D:\OTOMASYON\Otomasyon\MyUserControl\bin\Debug\MyUserControl.pdb
+D:\OTOMASYON\Otomasyon\MyUserControl\obj\Debug\MyUserControl.csprojResolveAssemblyReference.cache
+D:\OTOMASYON\Otomasyon\MyUserControl\obj\Debug\MyUserControl.NumerikControl.resources
+D:\OTOMASYON\Otomasyon\MyUserControl\obj\Debug\MyUserControl.Properties.Resources.resources
+D:\OTOMASYON\Otomasyon\MyUserControl\obj\Debug\MyUserControl.csproj.GenerateResource.Cache
+D:\OTOMASYON\Otomasyon\MyUserControl\obj\Debug\MyUserControl.exe
+D:\OTOMASYON\Otomasyon\MyUserControl\obj\Debug\MyUserControl.pdb
+D:\OTOMASYON\Otomasyon\MyUserControl\obj\Debug\MyUserControl.Form1.resources
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\MyUserControl\bin\Debug\MyUserControl.exe
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\MyUserControl\bin\Debug\MyUserControl.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\MyUserControl\obj\Debug\MyUserControl.Form1.resources
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\MyUserControl\obj\Debug\MyUserControl.NumerikControl.resources
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\MyUserControl\obj\Debug\MyUserControl.Properties.Resources.resources
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\MyUserControl\obj\Debug\MyUserControl.csproj.GenerateResource.Cache
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\MyUserControl\obj\Debug\MyUserControl.exe
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\MyUserControl\obj\Debug\MyUserControl.pdb

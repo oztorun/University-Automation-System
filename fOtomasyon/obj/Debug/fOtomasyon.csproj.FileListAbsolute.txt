@@ -1,0 +1,34 @@
+D:\OTOMASYON\Otomasyon\fOtomasyon\bin\Debug\fOtomasyon.dll
+D:\OTOMASYON\Otomasyon\fOtomasyon\bin\Debug\fOtomasyon.pdb
+D:\OTOMASYON\Otomasyon\fOtomasyon\bin\Debug\eOtomasyon.dll
+D:\OTOMASYON\Otomasyon\fOtomasyon\bin\Debug\Fintek.App.Data.dll
+D:\OTOMASYON\Otomasyon\fOtomasyon\bin\Debug\Fintek.App.dll
+D:\OTOMASYON\Otomasyon\fOtomasyon\bin\Debug\Fintek.Common.dll
+D:\OTOMASYON\Otomasyon\fOtomasyon\bin\Debug\Oracle.DataAccess.dll
+D:\OTOMASYON\Otomasyon\fOtomasyon\bin\Debug\Fintek.Common.Logger.dll
+D:\OTOMASYON\Otomasyon\fOtomasyon\bin\Debug\Fintek.Common.Data.dll
+D:\OTOMASYON\Otomasyon\fOtomasyon\bin\Debug\log4net.dll
+D:\OTOMASYON\Otomasyon\fOtomasyon\bin\Debug\eOtomasyon.pdb
+D:\OTOMASYON\Otomasyon\fOtomasyon\bin\Debug\Fintek.Common.xml
+D:\OTOMASYON\Otomasyon\fOtomasyon\obj\Debug\fOtomasyon.csprojResolveAssemblyReference.cache
+D:\OTOMASYON\Otomasyon\fOtomasyon\obj\Debug\fOtomasyon.dll
+D:\OTOMASYON\Otomasyon\fOtomasyon\obj\Debug\fOtomasyon.pdb
+C:\Users\s-otosun\Desktop\özgür\fOtomasyon\bin\Debug\fOtomasyon.dll
+C:\Users\s-otosun\Desktop\özgür\fOtomasyon\bin\Debug\fOtomasyon.pdb
+C:\Users\s-otosun\Desktop\özgür\fOtomasyon\bin\Debug\eOtomasyon.dll
+C:\Users\s-otosun\Desktop\özgür\fOtomasyon\bin\Debug\Oracle.DataAccess.dll
+C:\Users\s-otosun\Desktop\özgür\fOtomasyon\bin\Debug\Fintek.Common.Logger.dll
+C:\Users\s-otosun\Desktop\özgür\fOtomasyon\bin\Debug\Fintek.Common.Data.dll
+C:\Users\s-otosun\Desktop\özgür\fOtomasyon\bin\Debug\log4net.dll
+C:\Users\s-otosun\Desktop\özgür\fOtomasyon\bin\Debug\eOtomasyon.pdb
+C:\Users\s-otosun\Desktop\özgür\fOtomasyon\bin\Debug\Fintek.Common.xml
+C:\Users\s-otosun\Desktop\özgür\fOtomasyon\obj\Debug\fOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\s-otosun\Desktop\özgür\fOtomasyon\obj\Debug\fOtomasyon.dll
+C:\Users\s-otosun\Desktop\özgür\fOtomasyon\obj\Debug\fOtomasyon.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\fOtomasyon\bin\Debug\fOtomasyon.dll
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\fOtomasyon\bin\Debug\fOtomasyon.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\fOtomasyon\bin\Debug\eOtomasyon.dll
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\fOtomasyon\bin\Debug\eOtomasyon.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\fOtomasyon\obj\Debug\fOtomasyon.csprojResolveAssemblyReference.cache
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\fOtomasyon\obj\Debug\fOtomasyon.dll
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\fOtomasyon\obj\Debug\fOtomasyon.pdb

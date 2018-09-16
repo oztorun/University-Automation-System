@@ -1,0 +1,29 @@
+CREATE OR REPLACE PROCEDURE PLSQL_INS_DERS_SP
+(
+   p_DersId     IN plsql_ders.dersid%TYPE,
+   p_DersKodu   IN plsql_ders.derskodu%TYPE,
+   p_DersAdi    IN plsql_ders.dersadi%TYPE,
+   p_DersKredi  IN plsql_ders.derskredi%TYPE,
+   p_DersDonemi IN plsql_ders.dersdonemi%TYPE
+   
+)
+
+ AS
+BEGIN
+
+   INSERT INTO plsql_ders
+      (dersid,
+       derskodu,
+       dersadi,
+       derskredi,
+       dersdonemi)
+   
+   VALUES
+      (p_DersId,
+       p_DersKodu,
+       p_DersAdi,
+       p_DersKredi,
+       p_DersDonemi);
+
+END PLSQL_INS_DERS_SP;
+/

@@ -1,0 +1,85 @@
+CREATE OR REPLACE PROCEDURE ABR_SEL_REQUESTTYPEDEF_SP
+(
+   p_RequestTypeName IN ABR_REQUESTTYPE.REQUESTTYPE_NM%TYPE,
+   RC1               OUT SYS_REFCURSOR
+) AS
+
+   /* Genel Bilgiler                  
+   Adi : ABR_SEL_REQUESTTYPEDEF_SP                  
+   Amac : ABR_REQUESTTYPE tablosundan kayýt getirir.                  
+   Yazan/Tarih : AHAMATOGLU 21.07.2016                  
+   Table Access : ABR_REQUESTTYPE,ABR_CALLCONTEXT,ABR_NOTIFICATION                
+   */
+BEGIN
+   IF p_RequestTypeName IS NOT NULL THEN
+      OPEN RC1 FOR
+         SELECT REQTYPE.REQUESTTYPEID,
+                REQTYPE.REQUESTTYPE_NM       "REQUESTTYPENAME",
+                REQTYPE.REQUESTTYPE_DSC      "REQUESTTYPEDSC",
+                REQTYPE.ASSEMBLY_NM          "ASSEMBLYNAME",
+                REQTYPE.CLASSFULL_NM         "CLASSFULLNAME",
+                REQTYPE.METHOD_NM            "METHODNAME",
+                REQTYPE.CALLBACKASSEMBLY_NM  "CALLBACKASSEMBLYNAME",
+                REQTYPE.CALLBACKCLASSFULL_NM "CALLBACKCLASSFULLNAME",
+                REQTYPE.CALLBACKMETHOD_NM    "CALLBACKMETHODNAME",
+                REQTYPE.STATUS_IND,
+                REQTYPE.PRIORITY,
+                REQTYPE.NOTIFICATION_IND,
+                NOTF.NOTIFICATIONID          "NOTIFICATIONID",
+                NOTF.NOTIFICATION_NM         "NOTIFICATIONNAME",
+                CON.CALLCONTEXTID            "CALLCONTEXTID",
+                CON.CALLCONTEXT_NM           "CALLCONTEXTNAME",
+                CON.CHANNELID,
+                CON.BANK_CD                  "BANKID",
+                CON.BRANCHTYPE_CD            "BRANCHTYPE",
+                CON.BRANCHID,
+                GS.SUBE_SUBE_KD,
+                GS.SUBE_ADI_AD,
+                CON.USER_NM                  "USERNAME",
+                CON.SCREEN_CD                "SCREENNAME"
+           FROM ABR_REQUESTTYPE REQTYPE
+          INNER JOIN ABR_CALLCONTEXT CON
+             ON CON.CALLCONTEXTID = REQTYPE.CALLCONTEXTID
+           LEFT OUTER JOIN ABR_NOTIFICATION NOTF
+             ON REQTYPE.NOTIFICATIONID = NOTF.NOTIFICATIONID
+           LEFT OUTER JOIN GEN_SUBE GS
+             ON GS.SUBE_SUBE_KD = CON.BRANCHID
+          WHERE REQTYPE.STATUS_IND = 1
+            AND REQTYPE.REQUESTTYPE_NM = p_RequestTypeName;
+   ELSE
+      OPEN RC1 FOR
+         SELECT REQTYPE.REQUESTTYPEID,
+                REQTYPE.REQUESTTYPE_NM       "REQUESTTYPENAME",
+                REQTYPE.REQUESTTYPE_DSC      "REQUESTTYPEDSC",
+                REQTYPE.ASSEMBLY_NM          "ASSEMBLYNAME",
+                REQTYPE.CLASSFULL_NM         "CLASSFULLNAME",
+                REQTYPE.METHOD_NM            "METHODNAME",
+                REQTYPE.CALLBACKASSEMBLY_NM  "CALLBACKASSEMBLYNAME",
+                REQTYPE.CALLBACKCLASSFULL_NM "CALLBACKCLASSFULLNAME",
+                REQTYPE.CALLBACKMETHOD_NM    "CALLBACKMETHODNAME",
+                REQTYPE.STATUS_IND,
+                REQTYPE.PRIORITY,
+                REQTYPE.NOTIFICATION_IND,
+                NOTF.NOTIFICATIONID          "NOTIFICATIONID",
+                NOTF.NOTIFICATION_NM         "NOTIFICATIONNAME",
+                CON.CALLCONTEXTID            "CALLCONTEXTID",
+                CON.CALLCONTEXT_NM           "CALLCONTEXTNAME",
+                CON.CHANNELID,
+                CON.BANK_CD                  "BANKID",
+                CON.BRANCHTYPE_CD            "BRANCHTYPE",
+                CON.BRANCHID,
+                GS.SUBE_SUBE_KD,
+                GS.SUBE_ADI_AD,
+                CON.USER_NM                  "USERNAME",
+                CON.SCREEN_CD                "SCREENNAME"
+           FROM ABR_REQUESTTYPE REQTYPE
+          INNER JOIN ABR_CALLCONTEXT CON
+             ON CON.CALLCONTEXTID = REQTYPE.CALLCONTEXTID
+           LEFT OUTER JOIN ABR_NOTIFICATION NOTF
+             ON REQTYPE.NOTIFICATIONID = NOTF.NOTIFICATIONID
+           LEFT OUTER JOIN GEN_SUBE GS
+             ON GS.SUBE_SUBE_KD = CON.BRANCHID
+          WHERE REQTYPE.STATUS_IND = 1
+          ORDER BY REQTYPE.REQUESTTYPEID ASC;
+   END IF;
+END ABR_SEL_REQUESTTYPEDEF_SP;

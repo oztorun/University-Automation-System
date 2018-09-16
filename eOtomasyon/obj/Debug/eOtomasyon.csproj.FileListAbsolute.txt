@@ -1,0 +1,27 @@
+D:\OTOMASYON\Otomasyon\eOtomasyon\obj\Debug\eOtomasyon.csprojResolveAssemblyReference.cache
+D:\OTOMASYON\Otomasyon\eOtomasyon\bin\Debug\eOtomasyon.dll
+D:\OTOMASYON\Otomasyon\eOtomasyon\bin\Debug\eOtomasyon.pdb
+D:\OTOMASYON\Otomasyon\eOtomasyon\bin\Debug\Fintek.App.Data.dll
+D:\OTOMASYON\Otomasyon\eOtomasyon\bin\Debug\Fintek.App.dll
+D:\OTOMASYON\Otomasyon\eOtomasyon\bin\Debug\Fintek.Common.dll
+D:\OTOMASYON\Otomasyon\eOtomasyon\bin\Debug\Oracle.DataAccess.dll
+D:\OTOMASYON\Otomasyon\eOtomasyon\bin\Debug\Fintek.Common.Logger.dll
+D:\OTOMASYON\Otomasyon\eOtomasyon\bin\Debug\Fintek.Common.Data.dll
+D:\OTOMASYON\Otomasyon\eOtomasyon\bin\Debug\log4net.dll
+D:\OTOMASYON\Otomasyon\eOtomasyon\bin\Debug\Fintek.Common.xml
+D:\OTOMASYON\Otomasyon\eOtomasyon\obj\Debug\eOtomasyon.dll
+D:\OTOMASYON\Otomasyon\eOtomasyon\obj\Debug\eOtomasyon.pdb
+C:\Users\s-otosun\Desktop\özgür\eOtomasyon\bin\Debug\eOtomasyon.dll
+C:\Users\s-otosun\Desktop\özgür\eOtomasyon\bin\Debug\eOtomasyon.pdb
+C:\Users\s-otosun\Desktop\özgür\eOtomasyon\bin\Debug\Oracle.DataAccess.dll
+C:\Users\s-otosun\Desktop\özgür\eOtomasyon\bin\Debug\Fintek.Common.Logger.dll
+C:\Users\s-otosun\Desktop\özgür\eOtomasyon\bin\Debug\Fintek.Common.Data.dll
+C:\Users\s-otosun\Desktop\özgür\eOtomasyon\bin\Debug\log4net.dll
+C:\Users\s-otosun\Desktop\özgür\eOtomasyon\bin\Debug\Fintek.Common.xml
+C:\Users\s-otosun\Desktop\özgür\eOtomasyon\obj\Debug\eOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\s-otosun\Desktop\özgür\eOtomasyon\obj\Debug\eOtomasyon.dll
+C:\Users\s-otosun\Desktop\özgür\eOtomasyon\obj\Debug\eOtomasyon.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\eOtomasyon\bin\Debug\eOtomasyon.dll
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\eOtomasyon\bin\Debug\eOtomasyon.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\eOtomasyon\obj\Debug\eOtomasyon.dll
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\eOtomasyon\obj\Debug\eOtomasyon.pdb

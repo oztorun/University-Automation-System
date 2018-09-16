@@ -1,0 +1,56 @@
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\OgrenciForm.exe.config
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\OgrenciForm.exe
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\OgrenciForm.pdb
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\Fintek.App.Data.dll
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\Fintek.App.dll
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\Fintek.Common.dll
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\fOtomasyon.dll
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\MyUserControls.dll
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\Oracle.DataAccess.dll
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\eOtomasyon.dll
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\Fintek.Common.Logger.dll
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\Fintek.Common.Data.dll
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\log4net.dll
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\fOtomasyon.pdb
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\Fintek.Common.xml
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\MyUserControls.pdb
+D:\OTOMASYON\Otomasyon\OgrenciForm\bin\Debug\eOtomasyon.pdb
+D:\OTOMASYON\Otomasyon\OgrenciForm\obj\Debug\OtomasyonForm.csprojResolveAssemblyReference.cache
+D:\OTOMASYON\Otomasyon\OgrenciForm\obj\Debug\OgrenciForm.OgrenciForm.resources
+D:\OTOMASYON\Otomasyon\OgrenciForm\obj\Debug\OgrenciForm.DersForm.resources
+D:\OTOMASYON\Otomasyon\OgrenciForm\obj\Debug\OgrenciForm.Properties.Resources.resources
+D:\OTOMASYON\Otomasyon\OgrenciForm\obj\Debug\OtomasyonForm.csproj.GenerateResource.Cache
+D:\OTOMASYON\Otomasyon\OgrenciForm\obj\Debug\OgrenciForm.exe
+D:\OTOMASYON\Otomasyon\OgrenciForm\obj\Debug\OgrenciForm.pdb
+D:\OTOMASYON\Otomasyon\OgrenciForm\obj\Debug\OgrenciForm.MdiForm.resources
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\bin\Debug\OgrenciForm.exe.config
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\obj\Debug\OgrenciForm.exe
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\obj\Debug\OgrenciForm.pdb
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\bin\Debug\OgrenciForm.exe
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\bin\Debug\OgrenciForm.pdb
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\bin\Debug\fOtomasyon.dll
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\bin\Debug\Oracle.DataAccess.dll
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\bin\Debug\eOtomasyon.dll
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\bin\Debug\Fintek.Common.Logger.dll
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\bin\Debug\Fintek.Common.Data.dll
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\bin\Debug\log4net.dll
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\bin\Debug\fOtomasyon.pdb
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\bin\Debug\Fintek.Common.xml
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\bin\Debug\MyUserControls.pdb
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\bin\Debug\eOtomasyon.pdb
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\obj\Debug\OtomasyonForm.csprojResolveAssemblyReference.cache
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\obj\Debug\OgrenciForm.OgrenciForm.resources
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\obj\Debug\OgrenciForm.DersForm.resources
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\obj\Debug\OgrenciForm.MdiForm.resources
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\obj\Debug\OgrenciForm.Properties.Resources.resources
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\obj\Debug\OtomasyonForm.csproj.GenerateResource.Cache
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\obj\Debug\OgrenciForm.OgrenciDers.resources
+C:\Users\s-otosun\Desktop\özgür\OgrenciForm\obj\Debug\OgrenciForm.Account.resources
+C:\Users\Özgür\Desktop\PROJE\otomasyondosyaları\özgür\OgrenciForm\bin\Debug\OgrenciForm.exe.config
+C:\Users\Özgür\Desktop\PROJE\otomasyondosyaları\özgür\OgrenciForm\obj\Debug\OgrenciForm.exe
+C:\Users\Özgür\Desktop\PROJE\otomasyondosyaları\özgür\OgrenciForm\obj\Debug\OgrenciForm.pdb
+C:\Users\Özgür\Desktop\PROJE\otomasyondosyaları\özgür\OgrenciForm\obj\Debug\OtomasyonForm.csprojResolveAssemblyReference.cache
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\OgrenciForm\bin\Debug\OgrenciForm.exe.config
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\OgrenciForm\obj\Debug\OgrenciForm.exe
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\OgrenciForm\obj\Debug\OgrenciForm.pdb
+G:\BACKUP\STAJ VERİLERİ\PROJE\otomasyondosyaları\özgür\OgrenciForm\obj\Debug\OtomasyonForm.csprojResolveAssemblyReference.cache
